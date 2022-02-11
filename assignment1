@@ -1,0 +1,9 @@
+n=int(input('enter a number:'))
+if n%2!=0:
+    print('weird')
+elif n%2==0:
+    print('not weird')
+elif n%2==0:
+    print('weird')
+elif n>20:
+    print('not weird')
